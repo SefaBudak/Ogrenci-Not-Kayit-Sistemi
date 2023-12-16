@@ -1,0 +1,12 @@
+C:\Users\sefa0\OneDrive\Masaüstü\25 PROJE C#\Not_Kayıt_Sistemi\bin\Debug\Not_Kayıt_Sistemi.exe.config
+C:\Users\sefa0\OneDrive\Masaüstü\25 PROJE C#\Not_Kayıt_Sistemi\bin\Debug\Not_Kayıt_Sistemi.exe
+C:\Users\sefa0\OneDrive\Masaüstü\25 PROJE C#\Not_Kayıt_Sistemi\bin\Debug\Not_Kayıt_Sistemi.pdb
+C:\Users\sefa0\OneDrive\Masaüstü\25 PROJE C#\Not_Kayıt_Sistemi\obj\Debug\Not_Kayıt_Sistemi.csproj.AssemblyReference.cache
+C:\Users\sefa0\OneDrive\Masaüstü\25 PROJE C#\Not_Kayıt_Sistemi\obj\Debug\Not_Kayıt_Sistemi.FrmGiris.resources
+C:\Users\sefa0\OneDrive\Masaüstü\25 PROJE C#\Not_Kayıt_Sistemi\obj\Debug\Not_Kayıt_Sistemi.FRMOGRETMENDETAY.resources
+C:\Users\sefa0\OneDrive\Masaüstü\25 PROJE C#\Not_Kayıt_Sistemi\obj\Debug\Not_Kayıt_Sistemi.FRM_OGRENCİ_DETAY.resources
+C:\Users\sefa0\OneDrive\Masaüstü\25 PROJE C#\Not_Kayıt_Sistemi\obj\Debug\Not_Kayıt_Sistemi.Properties.Resources.resources
+C:\Users\sefa0\OneDrive\Masaüstü\25 PROJE C#\Not_Kayıt_Sistemi\obj\Debug\Not_Kayıt_Sistemi.csproj.GenerateResource.cache
+C:\Users\sefa0\OneDrive\Masaüstü\25 PROJE C#\Not_Kayıt_Sistemi\obj\Debug\Not_Kayıt_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\sefa0\OneDrive\Masaüstü\25 PROJE C#\Not_Kayıt_Sistemi\obj\Debug\Not_Kayıt_Sistemi.exe
+C:\Users\sefa0\OneDrive\Masaüstü\25 PROJE C#\Not_Kayıt_Sistemi\obj\Debug\Not_Kayıt_Sistemi.pdb
